@@ -1,5 +1,7 @@
 # 100 Days of DSA Challenge 🚀
 
+![Description](https://user-images.githubusercontent.com/64855541/135758397-513b4edf-a93f-477e-a78e-a80d7265bcd8.png)
+
 Welcome to my 100 Days of DSA Challenge repository! This is where I document my journey of learning and mastering Data Structures and Algorithms (DSA) over the course of 100 days.
 
 ## Table of Contents
