@@ -25,3 +25,4 @@ void selectionSort(int arr[], int n)
         if (min_idx != i)
             swap(arr[min_idx], arr[i]);
     }
+}
